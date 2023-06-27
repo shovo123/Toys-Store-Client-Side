@@ -1,0 +1,6 @@
+create project with vite -> (npm create vite@latest my-project -- --template react)
+set tailwind -> [link] (https://tailwindcss.com/)
+Add react router here -> [Link](https://reactrouter.com/en/main)
+Add flowbite library -> [here](https://daisyui.com/)
+Add react icon -> [link] (https://heroicons.com/)
+Sweet Alert2 toast -> [link] (https://sweetalert2.github.io/)
